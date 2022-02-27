@@ -1,0 +1,9 @@
+[submodule "packages/todo-core"]
+	path = packages/todo-core
+	url = git@github.com:nodejs-clean-architecture-examples/todo-core.git
+[submodule "apps/todo-react-client"]
+	path = apps/todo-react-client
+	url = git@github.com:nodejs-clean-architecture-examples/todo-react-client.git
+[submodule "apps/todo-api-server"]
+	path = apps/todo-api-server
+	url = git@github.com:nodejs-clean-architecture-examples/todo-api-server.git
